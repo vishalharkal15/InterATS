@@ -1,0 +1,10 @@
+# InterATS Project
+node_modules/
+venv/
+.env
+.DS_Store
+*.pyc
+__pycache__/
+dist/
+uploads/
+*.log
